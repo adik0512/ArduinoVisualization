@@ -1,0 +1,10 @@
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\bin\Debug\ArduinoVisualization.exe.config
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\bin\Debug\ArduinoVisualization.exe
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\bin\Debug\ArduinoVisualization.pdb
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Debug\ArduinoVisualization.Form1.resources
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Debug\ArduinoVisualization.Properties.Resources.resources
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Debug\ArduinoVisualization.csproj.GenerateResource.Cache
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Debug\ArduinoVisualization.exe
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Debug\ArduinoVisualization.pdb
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Debug\ArduinoVisualization.csprojResolveAssemblyReference.cache
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\bin\Debug\MySql.Data.dll

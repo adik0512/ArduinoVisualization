@@ -1,0 +1,8 @@
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\bin\Release\ArduinoVisualization.exe.config
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\bin\Release\ArduinoVisualization.exe
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\bin\Release\ArduinoVisualization.pdb
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Release\ArduinoVisualization.Form1.resources
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Release\ArduinoVisualization.Properties.Resources.resources
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Release\ArduinoVisualization.csproj.GenerateResource.Cache
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Release\ArduinoVisualization.exe
+C:\Users\Alien\Documents\Visual Studio 2015\Projects\ArduinoVisualization\ArduinoVisualization\obj\Release\ArduinoVisualization.pdb
